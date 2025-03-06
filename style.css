@@ -1,0 +1,13 @@
+body {
+    font-family: "Roboto", "Brush Script MT", sans-serif;
+    background-image: linear-gradient(180deg,burlywood, coral );
+    text-align: center;
+    list-style-position: inside;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 50px;
+    background-color: darkmagenta;
+    color: blanchedalmond;
+}

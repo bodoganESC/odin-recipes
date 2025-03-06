@@ -1,0 +1,25 @@
+body {
+    font-family: "Roboto", "Brush Script MT", sans-serif;
+    background-image: linear-gradient(180deg, rgb(212, 238, 247), lightseagreen, rgb(255, 166, 133));
+    text-align: center;
+}
+
+h1 {
+    font-weight: bolder;
+}
+
+ul {
+    display: inline-block;
+    padding-left: 0;
+    text-align: left;
+}
+
+ol {
+    text-align: center;
+    list-style-position: inside;
+    line-height: 2;
+}
+
+ol li {
+    padding-bottom: 15px;
+}
